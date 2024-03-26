@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "book_name": "The Dating Playbook For Men",
+        "author": "Andrew Ferebee",
+        "book_image": "https://example.com/the-dating-playbook-for-men.jpg",
+        "review": "A proven 7 step system to go from single to the woman of your dreams.",
+        "total_pages": 196,
+        "rating": 4.5,
+        "category": "Self-help",
+        "tags": [
+            "Dating",
+            "Relationships"
+        ],
+        "publisher": "Knowledge For Men LLC",
+        "year_of_publishing": 2015
+    },
+    {
+        "id": 2,
+        "book_name": "Why Do You Hate Money?",
+        "author": "Joey Percia",
+        "book_image": "https://example.com/why-do-you-hate-money.jpg",
+        "review": "A fitness marketing guide to create content that kills, craft copy that converts, and master the science of selling without selling out.",
+        "total_pages": 282,
+        "rating": 4.8,
+        "category": "Business",
+        "tags": [
+            "Marketing",
+            "Fitness"
+        ],
+        "publisher": "Self-published",
+        "year_of_publishing": 2018
+    },
+    {
+        "id": 3,
+        "book_name": "The Hate U Give",
+        "author": "Angie Thomas",
+        "book_image": "https://example.com/the-hate-u-give.jpg",
+        "review": "A powerful and brave YA novel about what prejudice looks like in the 21st century.",
+        "total_pages": 464,
+        "rating": 4.8,
+        "category": "Young Adult",
+        "tags": [
+            "Social Justice",
+            "Racism"
+        ],
+        "publisher": "Balzer + Bray",
+        "year_of_publishing": 2017
+    },
+    {
+        "id": 4,
+        "book_name": "Spine of the Dragon",
+        "author": "Kevin J. Anderson",
+        "book_image": "https://example.com/spine-of-the-dragon.jpg",
+        "review": "An epic tale of two warring continents, and the heroes and villains who shape the fate of the world.",
+        "total_pages": 528,
+        "rating": 4.2,
+        "category": "Fantasy",
+        "tags": [
+            "Epic",
+            "Adventure"
+        ],
+        "publisher": "Tor Books",
+        "year_of_publishing": 2019
+    },
+    {
+        "id": 5,
+        "book_name": "Annotated Texas Family Code",
+        "author": "Texas Legislature",
+        "book_image": "https://example.com/annotated-texas-family-code.jpg",
+        "review": "A comprehensive guide to family law in Texas, annotated for legal professionals and students.",
+        "total_pages": 1500,
+        "rating": 4.9,
+        "category": "Law",
+        "tags": [
+            "Legal Reference",
+            "Family Law"
+        ],
+        "publisher": "Thomson Reuters",
+        "year_of_publishing": 2020
+    },
+    {
+        "id": 6,
+        "book_name": "Loving Jesus More",
+        "author": "Philip Graham Ryken",
+        "book_image": "https://example.com/loving-jesus-more.jpg",
+        "review": "A heartfelt exploration of how to deepen your love and commitment to Jesus Christ.",
+        "total_pages": 176,
+        "rating": 4.6,
+        "category": "Religion",
+        "tags": [
+            "Christian Living",
+            "Spiritual Growth"
+        ],
+        "publisher": "Crossway",
+        "year_of_publishing": 2014
+    }
+]
